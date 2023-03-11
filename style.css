@@ -77,6 +77,12 @@ main {
 .jeanette h2{
     padding: 10px 32px 16px 32px;
 }
-.jeanette .white, .jeanette .profile .white{
+.kira .white, .kira .profile .white, .jeanette .white, .jeanette .profile .white{
     color: #48556A;
+}
+.patrick {
+    background-color: #19202D;
+}
+.kira {
+    background-color: #ffffff;
 }
